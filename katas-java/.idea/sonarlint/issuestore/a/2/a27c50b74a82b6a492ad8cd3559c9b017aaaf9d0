@@ -1,0 +1,22 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é¤ÚÊûÿÿÿÿJ$2be2b81a-ee02-45b6-9946-185a99000145
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(¬É‚¢ûÿÿÿÿ8ğó1J$029d8d80-094a-44f8-91bc-82059f3cb19f
+c
+java:S2129
+" Remove this "Double" constructor(•˜¯Ş8’ğó1J$fa6b4622-3518-49d9-b3ea-493c6d5eadc4
+h
+java:S2129" Remove this "Double" constructor(±è„›ÿÿÿÿÿ8“ğó1J$c72e524f-bdf9-417c-ad3f-2cb527b037e9
+a
+java:S2129" Remove this "Double" constructor(™ÓY8“ğó1J$5519d1fe-a00f-44e4-90e4-133cf5a94e16
+†
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(¦ŠŞÌúÿÿÿÿ8™ğó1J$a67ab88a-dbb2-4bef-9f3f-26340702df36
+†
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ƒ†¾åıÿÿÿÿ8šğó1J$4bfe511e-3c7b-4499-a887-8482be98ec17
+
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(×÷õá8›ğó1J$79dba8c8-fde7-486d-bfdc-0444dae0d66b
+†
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(æƒ¶‚øÿÿÿÿ8ğó1J$5d486bc9-31aa-4845-8246-52ba6b9bc281
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(«Ìü‚8Ÿğó1J$c98cabab-65d8-4ce1-aebe-20a525330fe6
+m	java:S106"+Replace this use of System.out by a logger.(«Ìü‚8Ÿğó1J$4943c9f1-1959-44e6-8734-67b31812e9d2

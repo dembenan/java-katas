@@ -1,0 +1,14 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü¦¼ÿÿÿÿÿ8ÕÑòò1J$45328893-a078-4ce7-9370-71b5ab037d0a
+l
+java:S2129
+"$Remove this "BigInteger" constructor(¬á¤¶ûÿÿÿÿ8¬ÉÑòò1J$80bb5187-1d43-4ea5-a2c6-6a59d2fef235
+g
+java:S2129"$Remove this "BigInteger" constructor(ğşøÆ8•ÜÑòò1J$4060a7f5-0917-42df-8567-7fd5b7c43914
+f
+java:S2129"$Remove this "BigInteger" constructor(’¢h8šïÑòò1J$68bf235b-f417-4a04-a5b3-fb62b773b814
+g
+java:S2129"$Remove this "BigInteger" constructor(ãÖšâ8¶‚Òòò1J$dcc8176b-d97e-4557-b847-fb38784abd14
+g
+java:S2129"$Remove this "BigInteger" constructor(ˆòº’8ŠëÒòò1J$4f8585f8-cf90-45ac-b9fd-495fad4d711e
+r	java:S106"+Replace this use of System.out by a logger.(³ñö øÿÿÿÿ8ÜÑòò1J$beff6f60-dc14-4308-a5a1-bcf866c77f58

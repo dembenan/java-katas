@@ -1,0 +1,17 @@
+
+†
+java:S1854">Remove this useless assignment to local variable "hugeNumber".(Œ‹ò‘üÿÿÿÿ8üíÇÊò1J$6e69070e-14d1-4b24-a2fb-789bc17f9221
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8•‡Ôòò1
+l
+java:S2129"$Remove this "BigInteger" constructor(Œ‹ò‘üÿÿÿÿ8îÇÊò1J$a082a7b3-1a79-48e8-b0bc-bbb3dc940d50
+w
+java:S1481"/Remove this unused "hugeNumber" local variable.(Œ‹ò‘üÿÿÿÿ8îÇÊò1J$a14bee47-4f4f-4e51-a882-dad67190a38f
+g
+java:S2129"$Remove this "BigInteger" constructor(êĞØÜ8‚îÇÊò1J$aacbc2c0-8d7a-4939-b5d9-c3c42efde173
+r	java:S106"+Replace this use of System.out by a logger.(‡ßââûÿÿÿÿ8ƒîÇÊò1J$faadf696-22d0-4a72-b441-abb0b3f7d914
+r	java:S106"+Replace this use of System.out by a logger.(ó›áäıÿÿÿÿ8ƒîÇÊò1J$dffadf6a-1c85-4227-9ae5-e2dbbcc684a5
+b
+java:S1128"@Remove this unused import 'ci.sidem.miniMaxSum.MinMaxSumResult'.( òŞöúÿÿÿÿ8œ‡Ôòò1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8œ‡Ôòò1

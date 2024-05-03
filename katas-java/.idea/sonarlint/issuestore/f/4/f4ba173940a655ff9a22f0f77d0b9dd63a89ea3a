@@ -1,0 +1,11 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾˜Ñ†J$ea071ba6-432c-45d8-ab96-87e3c09a2992
+{
+java:S1118":Add a private constructor to hide the implicit public one.(ÕÁµøÿÿÿÿJ$aea39dbe-f58c-4f99-aafd-7a41d7d1b2d9
+w	java:S125"<This block of commented-out lines of code should be removed.(‹ØôJ$09f5a3e8-cfd5-4047-ab48-1db4744ed1a1
+w	java:S125"<This block of commented-out lines of code should be removed.(„ºÛ…J$3d006cc9-bfff-4909-be58-5597654574b4
+w	java:S125"<This block of commented-out lines of code should be removed.(ÌŞ–ÕJ$270a7fb8-9308-447c-82fc-b6d4f14771f5
+x
+java:S1854">Remove this useless assignment to local variable "superDigit".(“¦?J$5e2751e4-fc15-471a-9ed9-ec4b55d37e43
+f	java:S106""+Replace this use of System.out by a logger.(ƒÓ´“J$2e5c1714-a6bf-459b-a47d-4ff679750cad
+f	java:S106#"+Replace this use of System.out by a logger.(›ÔÉúJ$f3906d17-7510-4b2d-a83f-6c66cd351add
